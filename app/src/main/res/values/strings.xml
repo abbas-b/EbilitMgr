@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EbilitMgr</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_start</item>
+        <item>@string/nav_item_trends</item>
+        <item>@string/nav_item_profile</item>
+        <item>@string/nav_item_about</item>
+        <item>@string/nav_item_share</item>
+        <item>@string/nav_item_help</item>
+    </string-array>
+
+    <string-array name="nav_drawer_icons">
+        <item>@drawable/about</item>
+        <item>@drawable/about</item>
+        <item>@drawable/about</item>
+        <item>@drawable/about</item>
+        <item>@drawable/about</item>
+        <item>@drawable/about</item>
+    </string-array>
+
+    <string name="nav_item_start" >صفحه اصلی</string>
+    <string name="nav_item_trends" >خلاصه</string>
+    <string name="nav_item_profile" >آمار ریز فروش</string>
+    <string name="nav_item_about" >آمار فروش روزانه</string>
+    <string name="nav_item_share" >آمار تفکیکی قیمت</string>
+    <string name="nav_item_help" >آمار تفکیکی سئانس</string>
+
+    <color name="primary">#009688</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="accent">#8BC34A</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="nav">#555</color>
+    <color name="bg_color_dark">#140b1b</color>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_concerts">ConcertsActivity</string>
+
+</resources>
